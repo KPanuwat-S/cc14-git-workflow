@@ -1,3 +1,5 @@
 const task = "task";
 
-const fn = (params) => {};
+const fn = () => {
+  return "test";
+};
